@@ -1,4 +1,3 @@
-var animals = ["dog", "cat", "squirrel"];
 
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(array, callback) {
